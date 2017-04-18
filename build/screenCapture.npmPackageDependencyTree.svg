@@ -1,0 +1,48 @@
+<svg height="718" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="718" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ webpack-notifier@1.5.0 </tspan>
+<tspan x="10" y="90">  ├─┬ node-notifier@4.6.1 </tspan>
+<tspan x="10" y="106">  │ ├─┬ cli-usage@0.1.4 </tspan>
+<tspan x="10" y="122">  │ │ ├── marked@0.3.6 </tspan>
+<tspan x="10" y="138">  │ │ └─┬ marked-terminal@1.7.0 </tspan>
+<tspan x="10" y="154">  │ │   ├─┬ cardinal@1.0.0 </tspan>
+<tspan x="10" y="170">  │ │   │ ├── ansicolors@0.2.1 </tspan>
+<tspan x="10" y="186">  │ │   │ └─┬ redeyed@1.0.1 </tspan>
+<tspan x="10" y="202">  │ │   │   └── esprima@3.0.0 </tspan>
+<tspan x="10" y="218">  │ │   ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="234">  │ │   │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="250">  │ │   │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="266">  │ │   │ ├── has-ansi@2.0.0 </tspan>
+<tspan x="10" y="282">  │ │   │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="298">  │ │   ├─┬ cli-table@0.3.1 </tspan>
+<tspan x="10" y="314">  │ │   │ └── colors@1.0.3 </tspan>
+<tspan x="10" y="330">  │ │   ├── lodash.assign@4.2.0 </tspan>
+<tspan x="10" y="346">  │ │   └─┬ node-emoji@1.5.1 </tspan>
+<tspan x="10" y="362">  │ │     └── string.prototype.codepointat@0.2.0 </tspan>
+<tspan x="10" y="378">  │ ├── growly@1.3.0 </tspan>
+<tspan x="10" y="394">  │ ├─┬ lodash.clonedeep@3.0.2 </tspan>
+<tspan x="10" y="410">  │ │ ├─┬ lodash._baseclone@3.3.0 </tspan>
+<tspan x="10" y="426">  │ │ │ ├── lodash._arraycopy@3.0.0 </tspan>
+<tspan x="10" y="442">  │ │ │ ├── lodash._arrayeach@3.0.0 </tspan>
+<tspan x="10" y="458">  │ │ │ ├─┬ lodash._baseassign@3.2.0 </tspan>
+<tspan x="10" y="474">  │ │ │ │ └── lodash._basecopy@3.0.1 </tspan>
+<tspan x="10" y="490">  │ │ │ ├── lodash._basefor@3.0.3 </tspan>
+<tspan x="10" y="506">  │ │ │ ├── lodash.isarray@3.0.4 </tspan>
+<tspan x="10" y="522">  │ │ │ └─┬ lodash.keys@3.1.2 </tspan>
+<tspan x="10" y="538">  │ │ │   ├── lodash._getnative@3.9.1 </tspan>
+<tspan x="10" y="554">  │ │ │   └── lodash.isarguments@3.1.0 </tspan>
+<tspan x="10" y="570">  │ │ └── lodash._bindcallback@3.0.1 </tspan>
+<tspan x="10" y="586">  │ ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="602">  │ ├── semver@5.3.0 </tspan>
+<tspan x="10" y="618">  │ ├── shellwords@0.1.0 </tspan>
+<tspan x="10" y="634">  │ └─┬ which@1.2.14 </tspan>
+<tspan x="10" y="650">  │   └── isexe@2.0.0 </tspan>
+<tspan x="10" y="666">  ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="682">  └─┬ strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="698">    └── ansi-regex@2.1.1</tspan>
+</text>
+</svg>
